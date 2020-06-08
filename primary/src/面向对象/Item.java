@@ -8,5 +8,4 @@ package 面向对象;
 public class Item {
     private String name;
     private int pirce;
-
 }
